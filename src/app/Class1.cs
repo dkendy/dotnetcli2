@@ -5,7 +5,7 @@ namespace app
     public class Calculo 
     {
         public int Resultado(){
-            return 2;
+            return 3;
         }
     }
 }
