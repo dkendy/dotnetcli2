@@ -1,10 +1,6 @@
 ame: .NET
 
-on:
-  push:
-    branches: [ $default-branch ]
-  pull_request:
-    branches: [ $default-branch ]
+on: [push]
 
 jobs:
   build:
@@ -18,8 +14,8 @@ jobs:
       with:
         dotnet-version: 5.0.x
     - name: Restore dependencies
-      run: dotnet restore
+      run: ./src/app/dotnet restore
     - name: Build
-      run: dotnet build --no-restore
+      run: ./src/app/dotnet build --no-restore
     - name: Test
-      run: dotnet test --no-build --verbosity normal
+      run: ./src/teste/dotnet test --no-build --verbosity normal
