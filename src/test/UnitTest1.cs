@@ -10,7 +10,7 @@ namespace test
         public void Test1()
         {
             Calculo c = new Calculo();
-            Assert.Equal(c.Resultado(),2);
+            Assert.Equal(c.Resultado(),3);
         }
     }
 }
