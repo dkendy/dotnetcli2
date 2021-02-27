@@ -2,10 +2,10 @@
 
 namespace app
 {
-    public class Calculo
+    public class Calculo 
     {
         public int Resultado(){
-            return 1;
+            return 2;
         }
     }
 }
