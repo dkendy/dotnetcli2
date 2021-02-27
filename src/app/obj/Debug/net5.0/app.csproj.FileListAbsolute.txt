@@ -1,0 +1,12 @@
+/home/dkendy/CI/src/app/bin/Debug/net5.0/app.deps.json
+/home/dkendy/CI/src/app/bin/Debug/net5.0/app.dll
+/home/dkendy/CI/src/app/bin/Debug/net5.0/ref/app.dll
+/home/dkendy/CI/src/app/bin/Debug/net5.0/app.pdb
+/home/dkendy/CI/src/app/obj/Debug/net5.0/app.csprojAssemblyReference.cache
+/home/dkendy/CI/src/app/obj/Debug/net5.0/app.GeneratedMSBuildEditorConfig.editorconfig
+/home/dkendy/CI/src/app/obj/Debug/net5.0/app.AssemblyInfoInputs.cache
+/home/dkendy/CI/src/app/obj/Debug/net5.0/app.AssemblyInfo.cs
+/home/dkendy/CI/src/app/obj/Debug/net5.0/app.csproj.CoreCompileInputs.cache
+/home/dkendy/CI/src/app/obj/Debug/net5.0/app.dll
+/home/dkendy/CI/src/app/obj/Debug/net5.0/ref/app.dll
+/home/dkendy/CI/src/app/obj/Debug/net5.0/app.pdb
