@@ -3,7 +3,7 @@ name: CI-NET
 on: [push]
 
 jobs:
-  build:
+  contrucao:
 
     runs-on: ubuntu-latest
 
