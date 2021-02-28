@@ -1,2 +1,5 @@
 .vscode/
-.bin/
+src/app/bin/
+src/app/obj/
+src/test/bin/
+src/test/obj/
