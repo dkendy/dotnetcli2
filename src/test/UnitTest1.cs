@@ -10,8 +10,9 @@ namespace test
         public void Test1()
         {
             Calculo c = new Calculo();
-            Assert.Equal(c.Resultado(),3);
+            Assert.Equal(c.Resultado(),4);
         }
         //teste
+        //teste 222
     }
 }
