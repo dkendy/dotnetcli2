@@ -12,5 +12,6 @@ namespace test
             Calculo c = new Calculo();
             Assert.Equal(c.Resultado(),3);
         }
+        //teste
     }
 }
