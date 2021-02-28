@@ -4,9 +4,9 @@ on:
   pull_request:
     branches:
     - develop
-    
+
 jobs:
-  contrucao:
+  check-application:
 
     runs-on: ubuntu-latest
 
