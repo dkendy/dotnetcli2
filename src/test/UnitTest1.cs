@@ -10,9 +10,11 @@ namespace test
         public void Test1()
         {
             Calculo c = new Calculo();
-            Assert.Equal(c.Resultado(),4);
+            Assert.Equal(c.Resultado(),3);
         }
-        //teste
-        //teste 222
+        //teste 
+        //modificação feito no feature/ci
+        //correção feita em feature/ci 
+        //segunda correção em feature/ci
     }
 }
